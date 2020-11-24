@@ -1,0 +1,13 @@
+C:\Users\Dann\Desktop\PluginSmodproject\Linux\bin\Debug\Linux.exe.config
+C:\Users\Dann\Desktop\PluginSmodproject\Linux\bin\Debug\Linux.exe
+C:\Users\Dann\Desktop\PluginSmodproject\Linux\bin\Debug\Linux.pdb
+C:\Users\Dann\Desktop\PluginSmodproject\Linux\obj\Debug\Linux.csprojAssemblyReference.cache
+C:\Users\Dann\Desktop\PluginSmodproject\Linux\obj\Debug\Linux.Startup.resources
+C:\Users\Dann\Desktop\PluginSmodproject\Linux\obj\Debug\Linux.Properties.Resources.resources
+C:\Users\Dann\Desktop\PluginSmodproject\Linux\obj\Debug\Linux.csproj.GenerateResource.cache
+C:\Users\Dann\Desktop\PluginSmodproject\Linux\obj\Debug\Linux.exe
+C:\Users\Dann\Desktop\PluginSmodproject\Linux\obj\Debug\Linux.pdb
+C:\Users\Dann\Desktop\PluginSmodproject\Linux\obj\Debug\Linux.Desktop.resources
+C:\Users\Dann\Desktop\PluginSmodproject\Linux\obj\Debug\Linux.TestApp.resources
+C:\Users\Dann\Desktop\PluginSmodproject\Linux\obj\Debug\Linux.pika.resources
+C:\Users\Dann\Desktop\PluginSmodproject\Linux\obj\Debug\Linux.Internet.resources
